@@ -1,0 +1,9 @@
+{
+  "name": "solidfetch-data-actor-examples",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Runnable JavaScript and Python examples for five pay-per-result Apify actors by solidfetch",
+  "dependencies": { "apify-client": "^2.9.0" },
+  "license": "MIT"
+}
