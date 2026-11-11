@@ -1,7 +1,7 @@
 """Businesses with a phone number and no website in one city: a web agency lead list.
 
 Run:  APIFY_TOKEN=... python overture-places-leads/no_website_leads.py PL Warsaw dentist
-Cost: about $1.50 per 1,000 places on the Apify free plan.
+Cost: about $3.00 per 1,000 places on the Apify free plan.
 """
 import csv
 import os
